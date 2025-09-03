@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Khez16
 - 👀 I’m interested in programming, game development, and art.
 - 🌱 I’m currently learning Computer Sceince at the University of Ontario Institue of Technology. I am currently in my third year of University.
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Khez16/Khez16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
